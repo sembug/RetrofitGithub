@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Retrofit Github</string>
+    <string name="fill_you_credentials_here">Fill you credentials here</string>
+    <string name="username">Username:</string>
+    <string name="password">Password</string>
+    <string name="credentials">Credentials</string>
+    <string name="your_comment">Your comment</string>
+    <string name="load_user_repositories">Load user repositories</string>
+    <string name="send_comment">Send comment</string>
+    <string name="no_repositories_available">No repositories available</string>
+</resources>
